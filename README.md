@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🌱 I’m currently a student at Generation Brasil, a
-- 🌱 I’m currently learning J
+- 🌱 I’m currently a student at Generation Brasil
+- 🌱 I’m currently learning Java | Spring Boot | MySQL | React | TypeScript | JavaScript | 
 - 🏳‍🌈 LGBTQIA+ community
-- 😄 Pronouns: Ele/He
+- 😄 Pronouns: He/Ele
  
 <div align="center">
   <a href="https://github.com/DomLucaz">
