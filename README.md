@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning Java | Spring Boot | MySQL | React | TypeScript | JavaScript | 
 - 🏳‍🌈 LGBTQIA+ community
 - 😄 Pronouns: He/Ele
- 
+
+Stack and Tools
+
 <div align="Left-aligned">
   <a href="https://github.com/DomLucaz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=domlucaz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
