@@ -4,17 +4,16 @@
 - 🌱 I’m currently learning Java | Spring Boot | MySQL | React | TypeScript | JavaScript | 
 - 🏳‍🌈 LGBTQIA+ community
 - 😄 Pronouns: He/Ele
+<br>
+<b>Stack and Tools:</b>
 
-Stack and Tools
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Lucas-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
-
+<br>
 <div align="Left-aligned">
   <a href="https://github.com/DomLucaz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=domlucaz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
