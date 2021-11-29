@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🎓 I'm graduated in Secretariat, but I decided to redesign career becoming to Web Developer
+- 🎓 I'm graduated in Secretariat, but I decided to redesign my career becoming to Web Developer
 - 🌱 I’m currently a student at Generation Brasil
 - 🌱 I’m currently learning Java | Spring Boot | MySQL | React | TypeScript | JavaScript | 
 - 🏳‍🌈 LGBTQIA+ community
