@@ -21,5 +21,5 @@
  <a href="https://www.linkedin.com/in/domlucaz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCi7OGJpdJ81CsW_ShBMLeDA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  
-   ![Snake animation](https://github.com/rafaballerini/domlucaz/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/domlucaz/domlucaz/blob/output/github-contribution-grid-snake.svg)
  </div> 
