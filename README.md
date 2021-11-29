@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domlucaz&layout=compact&langs_count=7&theme=radical"/>
   <a/>
 </div>
-
+<br>
 <i> PS:Down bellow are listed the most used languages and some Github status about this profile. It's a feature aprovided by Github Readme Stats.<a href="https://github.com/anuraghazra/github-readme-stats"> Click here</a>, and check out how to display your own status.</i>
 
  ##
