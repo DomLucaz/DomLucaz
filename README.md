@@ -3,7 +3,7 @@
 - 🌱 I’m currently a student at Generation Brasil
 - 🌱 I’m currently learning Java | Spring Boot | MySQL | React | TypeScript | JavaScript | 
 - 🏳‍🌈 LGBTQIA+ community
-- 😄 Pronouns: He/Ele
+- 😄 Pronouns: He/His
 <br>
 <b>Stack and Tools:</b>
 
