@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🎓 I've completed my technologist degree in Secretariat, but I decided to redesign my career becoming to Web Developer
+- 🎓 I haven't completed my technologist degree in Secretariat, because I decided to redesign my career becoming to Web Developer
 - 🌱 I've finished a bootcamp for Web Developer at Generation Brasil
 - 🌱 I’m currently learning Java | Spring Boot | MySQL | React | TypeScript | JavaScript | 
 - 🏳‍🌈 LGBTQIA+ community
