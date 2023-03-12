@@ -1,7 +1,8 @@
 ### Hi there 👋
 - 🎓 I haven't completed my technologist degree in Secretariat, because I decided to redesign my career becoming to Web Developer
-- 🌱 I've finished a bootcamp for Web Developer at Generation Brasil in 2021
-- 🌱 I’m currently improving my knowledge in Java | Spring Boot | MySQL | React | TypeScript | JavaScript | 
+- 🎓 I have finished a bootcamp for Web Developer at Generation Brasil in 2021
+- 🎓 I am studying System Analysis and Development at College Impacta
+- 🌱 I am upgrading my knowledge in React | TypeScript | JavaScript | Java | Spring Boot | MySQL 
 - 🏳‍🌈 LGBTQIA+ community
 - 😄 Pronouns: He/His
 <br>
