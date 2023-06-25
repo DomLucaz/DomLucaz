@@ -4,7 +4,6 @@
 - 🎓 I am studying System Analysis and Development at Impacta College
 - 🌱 I am upgrading my knowledge in React | TypeScript | JavaScript | Java | Spring Boot | MySQL 
 - 🏳‍🌈 LGBTQIA+ community
-- 😄 Pronouns: He/His
 <br>
 <b>Stack and Tools:</b>
 
