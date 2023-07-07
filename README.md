@@ -7,7 +7,8 @@
 - 🏳‍🌈 LGBTQIA+ community
 <br>
 <b>Stack and Tools:</b>
-
+<br>
+<i> PS:Down bellow are listed the most used languages and some Github status about this profile. It's a feature aprovided by Github Readme Stats.<a href="https://github.com/anuraghazra/github-readme-stats"> Click here</a>, and check out how to display your own status.</i>
 <div style="display: inline_block"><br>
   <table><div style="display: inline_block" align = "left">
   <img alt="Domlucaz-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
@@ -30,8 +31,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domlucaz&layout=compact&langs_count=7&theme=radical"/>
   <a/>
 </div>
-<br>
-<i> PS:Down bellow are listed the most used languages and some Github status about this profile. It's a feature aprovided by Github Readme Stats.<a href="https://github.com/anuraghazra/github-readme-stats"> Click here</a>, and check out how to display your own status.</i>
+
 
  ##
  
