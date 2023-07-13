@@ -1,7 +1,6 @@
 ### Hi there 👋
-- 🎓 I left the technologist degree in Secretarial because I decided to follow my dream career becoming to Web Developer
-- 🎓 I have completed a bootcamp for Web Developer at<a href="https://brazil.generation.org/"> Generation Brasil</a> in 2021
 - 🎓 I am in 2º semester of the System Analysis and Development course at<a href="https://www.impacta.edu.br/graduacao">  Impacta College </a> 
+- 🎓 I have completed a bootcamp for Web Developer at<a href="https://brazil.generation.org/"> Generation Brasil</a> in 2021
 - 🎓 I am studying in a bootcamp for Web Developer at<a href="https://soulcode.com/"> SoulCode Academy </a>in partnership with<a href="https://www.portoseguro.com.br/"> Porto </a>
 - 🌱 I am upgrading my knowledge in React | TypeScript | JavaScript | Java | Spring Boot | MySQL 
 - 🏳‍🌈 LGBTQIA+ community
