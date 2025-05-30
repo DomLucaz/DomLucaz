@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🎓 I am in 2º semester of the System Analysis and Development course at<a href="https://www.impacta.edu.br/graduacao">  Impacta College </a> 
+- 🎓 I am in 5º semester of the System Analysis and Development course at<a href="https://www.impacta.edu.br/graduacao">  Impacta College </a> 
 - 🎓 I have completed a bootcamp for Web Developer at<a href="https://brazil.generation.org/"> Generation Brasil</a> in 2021
 - 🎓 I have completed a bootcamp for Web Developer at<a href="https://soulcode.com/"> SoulCode Academy </a>in 2023
 - 🌱 I am upgrading my knowledge in React | TypeScript | JavaScript | Java | Spring Boot | MySQL 
